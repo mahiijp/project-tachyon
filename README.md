@@ -1,4 +1,4 @@
-# project-tachyon
+# bart-large-cnn
 language:
 
 en pipeline_tag: summarization license: mit thumbnail: https://huggingface.co/front/thumbnails/facebook.png datasets:
